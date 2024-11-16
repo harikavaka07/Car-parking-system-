@@ -53,7 +53,7 @@ Welcome to the **Car Parking System** project! This system leverages embedded sy
 
 ## 📹 **View Video for Reference**
 
-For a better understanding of how the system works in real-time, [watch this demo video](#) demonstrating the complete functionality of the Car Parking System.
+For a better understanding of how the system works in real-time, [https://www.canva.com/design/DAGWp6y_SBo/V_Uok7NYcPVWi5eepTge9Q/watch?utm_content=DAGWp6y_SBo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7ac004b2a8](#) demonstrating the complete functionality of the Car Parking System.
 
 ---
 
